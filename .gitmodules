@@ -1,3 +1,6 @@
 [submodule "skills-resolve-merge-conflicts"]
 	path = skills-resolve-merge-conflicts
 	url = https://github.com/NichChin/skills-resolve-merge-conflicts
+[submodule "skills-review-pull-requests"]
+	path = skills-review-pull-requests
+	url = https://github.com/NichChin/skills-review-pull-requests
