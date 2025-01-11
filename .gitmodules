@@ -4,3 +4,6 @@
 [submodule "skills-review-pull-requests"]
 	path = skills-review-pull-requests
 	url = https://github.com/NichChin/skills-review-pull-requests
+[submodule "skills-introduction-to-github"]
+	path = skills-introduction-to-github
+	url = https://github.com/NichChin/skills-introduction-to-github
